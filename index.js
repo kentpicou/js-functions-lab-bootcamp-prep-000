@@ -18,4 +18,4 @@ happyHolidayTo("independance day", "you")
 function holidayCountdown(holiday, days){
   return(`It's ${days} until ${holiday}!`)
 }
-happyHolidaysTo("Mother's Day", "20 days")
+happyHolidaysTo("20 days", "Mother's Day")
